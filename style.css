@@ -1,0 +1,60 @@
+.container{
+    background-color: #BC3131;
+    color:white;
+    display: inline-block;
+    height: 100%;
+    max-width: 100%;
+}
+
+span, .font {
+    font-family: Beauty;
+    font-size: 3rem;}
+
+.card {
+    margin: 2rem;
+    border-radius: 0.5rem;
+}
+    
+.card-title, .card-texto {
+    padding-left: 0.5rem;
+}
+
+.card-footer {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+}
+
+td, .terreno {
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+.conteudo-card
+
+.terreno {
+    margin: 0;
+    padding: 0;
+}
+    
+img {
+    left: 1rem;      
+}
+
+@media screen and (max-width: 720px) {
+    
+}
+.bg-foot{
+    background-color: #BC3131;
+    color: white;
+    float: center;
+}
+.bg-foot p{
+    text-indent:60%;
+}
+.bg-contat{
+   background-color: #000000;
+}
