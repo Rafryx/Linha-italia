@@ -3,32 +3,6 @@
     padding: 0;
     box-sizing: 0;
 }
-
-/*********Rodape******/
-.rodape {
-    background-color: #bc3131;
-    height: 80px;
-    margin-top: -2%;
-}
-
-.rodape h1{
-      color: white;
-      font-family: Beauty;
-      font-size: 40px;               
-}
-
-.rodape p{
-     color:white;
-}
-
-.rodape p h1 {
-    display: inline-block;    
-} 
-
-.rodape ul li{
-    display: inline-block;
-    margin-left: 18%;   
-}
 /*********contato******/
 .contato{
     background: rgba(0, 0, 0, 0.87);
@@ -366,3 +340,60 @@ footer {
     }
 }
 /* final do navbar */
+
+/*********Rodape******/
+.rodape {
+    background-color: #bc3131;
+    height: 80px;
+    margin-top: -2%;
+}
+
+.rodape h1{
+      color: white;
+      font-family: Beauty;
+      font-size: 40px;               
+}
+
+.rodape p{
+     color:white;
+}
+
+.rodape p h1 {
+    display: inline-block;    
+} 
+
+.rodape ul li{
+    display: inline-block;
+    margin-left: 18%;   
+}
+
+.bi {
+    margin-bottom: 100px;
+    margin-right: 20px;
+}
+
+.bi-youtube {
+    margin-right: 20px;
+}
+
+.bi-whatsapp {
+    margin-right: 20px;
+}
+
+.bi-geo-alt {
+    margin-left: 1250px;
+}
+
+.i-envelope{
+    margin-right: 20px;
+}
+
+.bi-facebook {
+   margin-left: 100px;
+   margin-right: 20px;
+}
+
+.bi-instagram{
+    margin-right: 20px;
+}
+
